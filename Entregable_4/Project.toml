@@ -1,0 +1,6 @@
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+DynamicPolynomials = "7c1d4256-1411-5781-91ec-d7bc3513ac07"
+Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
+Sobol = "ed01d8cd-4d21-5b2a-85b4-cc3bdc58bad4"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
